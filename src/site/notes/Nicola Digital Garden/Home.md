@@ -4,3 +4,6 @@
 
 
 Test Home Page
+
+[[Nicola Digital Garden/how I met Bill Murray in Paris|Nicola Digital Garden/how I met Bill Murray in Paris]]
+[[Nicola Digital Garden/Meeting Bill Murray in Paris|Nicola Digital Garden/Meeting Bill Murray in Paris]]
